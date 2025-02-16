@@ -1,4 +1,4 @@
-# Brush-experience
+# Brush experience
 刷机经验总结
 
 1. 准备工作：
